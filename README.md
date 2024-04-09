@@ -14,7 +14,7 @@
 			<img align="center"
 				width="66%"
 				alt="wakatime languages"
-				src="https://wakatime.com/share/@hdoo/824bf8ea-c975-4ee1-9c03-170c9a096d1a.svg"
+				src="https://wakatime.com/share/@hdoo/21b43840-8145-459b-94bd-e7145b49eef2.svg"
 			/>
 		</a>
 	</details>
